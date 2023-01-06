@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-29T16:31:09 PST" name="All Test Suite" finished-at="2022-12-29T16:32:01 PST" duration-ms="52372">
+    <groups>
+    </groups>
+    <test started-at="2022-12-29T16:31:09 PST" name="C:/Users/bhatr/IdeaProjects/AutomationFramework" finished-at="2022-12-29T16:32:01 PST" duration-ms="52372">
+      <class name="testPackage.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:31:10 PST" name="setup" finished-at="2022-12-29T16:31:14 PST" duration-ms="4825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginDataTest(java.lang.String,java.lang.String)[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:31:14 PST" name="loginDataTest" data-provider="LoginDataDriven" finished-at="2022-12-29T16:31:15 PST" duration-ms="238" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anushabhatraju@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bhatraju!8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDataTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:31:15 PST" name="tearDown" finished-at="2022-12-29T16:31:31 PST" duration-ms="16266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:31:31 PST" name="setup" finished-at="2022-12-29T16:31:34 PST" duration-ms="3569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginDataTest(java.lang.String,java.lang.String)[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:31:34 PST" name="loginDataTest" data-provider="LoginDataDriven" finished-at="2022-12-29T16:31:35 PST" duration-ms="187" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vernica]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vernica!7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDataTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:31:35 PST" name="tearDown" finished-at="2022-12-29T16:31:35 PST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:31:35 PST" name="setup" finished-at="2022-12-29T16:31:38 PST" duration-ms="3218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginDataTest(java.lang.String,java.lang.String)[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:31:38 PST" name="loginDataTest" data-provider="LoginDataDriven" finished-at="2022-12-29T16:31:38 PST" duration-ms="224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sarat]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bhatraju!8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDataTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:31:38 PST" name="tearDown" finished-at="2022-12-29T16:31:54 PST" duration-ms="16190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:31:54 PST" name="setup" finished-at="2022-12-29T16:31:58 PST" duration-ms="3240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginDataTest(java.lang.String,java.lang.String)[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:31:58 PST" name="loginDataTest" data-provider="LoginDataDriven" finished-at="2022-12-29T16:31:58 PST" duration-ms="186" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shreyansh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shreyansh!9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDataTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:31:58 PST" name="tearDown" finished-at="2022-12-29T16:31:58 PST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:31:58 PST" name="setup" finished-at="2022-12-29T16:32:01 PST" duration-ms="3099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateLoginPageTitle()[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:32:01 PST" name="validateLoginPageTitle" finished-at="2022-12-29T16:32:01 PST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.LoginPageTest@1afd44cb]" started-at="2022-12-29T16:32:01 PST" name="tearDown" finished-at="2022-12-29T16:32:01 PST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testPackage.LoginPageTest -->
+    </test> <!-- C:/Users/bhatr/IdeaProjects/AutomationFramework -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
